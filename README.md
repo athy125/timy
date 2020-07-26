@@ -1,6 +1,5 @@
 # Timy app
 
-[![Build Status](https://app.bitrise.io/app/1777d1ca81df02fb/status.svg?token=JR4pw9Z3dElWNrDmy3ImLA&branch=master)](https://app.bitrise.io/app/1777d1ca81df02fb)
 
 An amazing open-source group messaging app build with flutter. ✨
 
@@ -184,16 +183,6 @@ The app is setup to work with a development and production environment. We sugge
 
 When building for release the app will automatically use the production configuration that you’ve configured in step `B3`.
 
-# External resources
-
-- [Timy Messenger in itsallwidgets.com](https://itsallwidgets.com/timy-messenger)
-- [Building a Messaging App in Flutter — Part I: Project Structure](https://beltran.work/blog/building-a-messaging-app-in-flutter-part-i-project-structure/)
-- [Building a Messaging App in Flutter — Part II: Main Method](https://beltran.work/blog/building-a-messaging-app-in-flutter-part-ii-main-method/)
-- [Building a Messaging App in Flutter — Part III: Redux](https://beltran.work/blog/building-a-messaging-app-in-flutter-part-iii-redux/)
-
 # About
 
-The concept for Timy was created and developed by [kaalita](https://github.com/kaalita) and [philippmoeser](https://github.com/philippmoeser).
-The initial version is a MVP messaging app focusing on organising events among groups.
-
-We hope this project can be a reference or building block for your next flutter app. 🚀
+The initial version is a MVP messaging app focusing on organising events among groups to chat and do other fun stuff
