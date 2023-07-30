@@ -185,4 +185,6 @@ When building for release the app will automatically use the production configur
 
 # About
 
-The initial version is a MVP messaging app focusing on organising events among groups to chat and do other fun stuff
+Timy aims to create a vibrant and dynamic community of individuals who share common interests and enjoy engaging in social events. Whether it's a small gathering or a large-scale event, this app provides the tools to make event planning, coordination, and participation seamless and enjoyable for everyone involved.
+
+
